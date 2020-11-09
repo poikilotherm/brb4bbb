@@ -17,6 +17,8 @@ This project aims to support both use cases with a single button. As I laid my h
 few buttons with red LED rings, I called this "big red button" for a very commonly used
 video conferencing software in academia, [Big Blue Button](https://bigbluebutton.org/).
 
+![off](doc/img/brb-off.jpg) ![on](doc/img/brb-on.jpg)
+
 ## DISCLAIMER
 
 THIS IS A WORK IN PROGRESS.
