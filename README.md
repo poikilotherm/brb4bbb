@@ -17,6 +17,16 @@ This project aims to support both use cases with a single button. As I laid my h
 few buttons with red LED rings, I called this "big red button" for a very commonly used
 video conferencing software in academia, [Big Blue Button](https://bigbluebutton.org/).
 
+## DISCLAIMER
+
+THIS IS A WORK IN PROGRESS.
+
+Feel free to rebuild, adapt, do-the-fuck-you-want. But don't hold me accountable for any damage
+you are doing to yourself, your environment, your computer or whatever.
+
+I know what I'm doing. If you don't, stop reading here and go away. This is not for you.
+You have been warned. Soldering irons are hot at its head.
+
 ## How does this work
 
 Actually it's pretty low-tech: a button, a LED if you want and a microcontroller with USB HID support.
