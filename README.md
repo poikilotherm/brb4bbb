@@ -45,7 +45,11 @@ The device will start with LED on (if present), as most certainly your mic is en
 How does this magic work? Easy: the keycode is like pressing **F20** on your keyboard. What, only up to F12
 on yours? Guess what, there are historic [keyboards with more function keys (F13-F24)](https://www.win.tue.nl/~aeb/linux/kbd/scancodes-5.html)...
 Rare these days, I guess.
-   
+
+*Future idea:*
+
+*Add a triple-click to switch modes for different Windoze programs? We can emulate so many shortcut combos as we want...*
+
 ## Bill of materials
 
 1. Get hold of a USB HID capable device like the [Arduino Micro](https://store.arduino.cc/arduino-micro).
